@@ -72,4 +72,4 @@ SoTL Mini Grant - Using Dungeon and Dragons to build Team Development Skills
 
 ## Key Concepts Visualized 
 
-![Storming - Forming - Norming - Performing to Explain - Demonstrate - Guide - Enable](../images/SFNP-EDGE.png)
+![Storming - Forming - Norming - Performing to Explain - Demonstrate - Guide - Enable](./images/SFNP-EDGE.png)
