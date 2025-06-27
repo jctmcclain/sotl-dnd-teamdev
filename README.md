@@ -36,6 +36,35 @@ SoTL Mini Grant - Using Dungeon and Dragons to build Team Development Skills
 
 ## Tools 
 
-### Resolving Conflict
+### Communication
+#### MaSeR
+* Message
+* Sender 
+* Receiver 
 
+### Goals
+#### SMART
+* Specific
+* Measurable 
+* Attainable 
+* Relevant
+* Timely
+
+### Assessment Tool
+#### SSC
+* Start
+* Stop 
+* Continue 
+
+### Conflict Resolution
 #### EAR
+* Express
+* Address 
+* Resolve
+
+### Valuing People
+#### ROPE
+* Reach out
+* Organize 
+* Practice 
+* Experience
